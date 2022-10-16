@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rajni kant Arya
-- 👀 I’m interested in Java Developer
+- 👀 I’m interested in Core Java
 - 🌱 I’m currently learning Java Backend Developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... rajnikantarya2@gmail.com
