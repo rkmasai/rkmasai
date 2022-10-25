@@ -3,56 +3,38 @@
    <h2>🚀 About Me</h2>
    <div >
      <div width="40%">
-     I am a full-stack web developer specialized in MERN stack. Keen to create new and innovative websites by showcasing my skills. Apart from that a great team player ability to work with different kinds of people.
-     </div>
+   I'm a Java Back End Developer, but still Exploring
+other technologies and frameworks that catch my
+interest, I offer both design and development services
+for web applications, If you're looking for a developer
+to add to your team, I'd love to hear from you.
+        
+        
     
-    <ul>
-               <li>🌱 <b>I’m currently learning</b>: Java Backend Developer at Masai (Remote).</li>
-               <li>🎯 <b>I’m currently focusing on</b>:Learning new things.</li>
-               <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://rkmasai.github.io/">LINK TO Porfolio</a>.</li>
-               <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || Java || Hibernate || SpringBoot || MySql  </li>
-     </ul>
-   </div>
+  <ul>
+   <li>🌱 <b>I’m currently learning</b>: Java Backend Developer at Masai (Remote).</li>
+  <li>🎯 <b>I’m currently focusing on</b>:Learning new things.</li>
+  <li>🤔 <b>I’m currently open for</b>: A new job opportunity, <a href="https://rkmasai.github.io/">LINK TO Porfolio</a>.</li>
+  <li>💬 <b>Ask me about </b>: HTML || CSS || Javascript || Java || Hibernate || SpringBoot || MySql  </li>
+  </ul>
+  </div>
    
    
    <h2> 🤝 Connect with me:</h2>
     
-   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=Portfolio&logoColor=white)](https://rkmasai.github.io/)
-   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajni-kant-arya-0b662022b/)
-   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajnikantarya2@gmail.com)
-   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+917004629613)
+   <h2> 🔝 Most used languages</h2>
+      <h2 align="center">📊 My Github Stats<h2>
+  
    
-      <h2>🧑‍💻 Languages and ⚒️ Tools...</h2>
-   <p align="left">
-      <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:4px">   
-     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/misc/chrome.svg" alt="chrome" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:4px">
-     <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-   </p>
-   
+ <img src="https://github-readme-stats.vercel.app/api?username=rkmasai&show_icons=true&theme=dark">
+ 
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=rkmasai">
    
    <h2>💻 Workspace</h2>
    
-   [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://rkmasai.github.io/)
+   [![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://rkmasai.github.io/)  
+   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkmasai&layout=compact" />
    
-   
-   
-   <h2> 🔝 Most used languages</h2>
-   
-    <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkmasai&layout=compact" />
-   
-   
-   <h2 align="center">📊 My Github Stats<h2>
-   
-   <div>
-
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rkmasai)](https://git.io/streak-stats)
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=rkmasai&show_icons=true&theme=dark" alt="" height="255px" width="47%"/>
-   <div>
-   </br>
    
    
    <div align="center">
