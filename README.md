@@ -1,4 +1,4 @@
-
+<img src="https://github.com/rkmasai/e-commerce/blob/main/logogif.gif" alt="java"/>
    
    <h2>🚀 About Me</h2>
    <div >
