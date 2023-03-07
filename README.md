@@ -23,7 +23,7 @@ to add to your team, I'd love to hear from you.
    <h2> 🤝 Connect with me:</h2>
    <h3 align="left" style="margin-top: 30px">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/rajni-kant-arya-0b662022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gdhamal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajni-kant-arya-0b662022b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajniKantlinked" height="30" width="40" /></a>
     
    <h2 align="left" style="margin-top: 30px"> 🔝 Most used languages and Tools:</h2>
 
